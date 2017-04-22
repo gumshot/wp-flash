@@ -11,3 +11,6 @@ width – width of the flash object;
 height – height of the flash object;
 bgcolor – background color (optional);
 wmode – wmode, e.g. transparent (optional).
+
+
+We are very grateful if you can contribute more ideas to improve the plugin
