@@ -2,6 +2,7 @@
 The WP-Flash plugin (developed by CyberSEO.net) allows you to easily insert the Adobe flash animation into WordPress blogs
 
 Use this pseudo code in wordpress to use it:
+
 [swf:url width height bgcolor wmode]
 
 where:
